@@ -23,15 +23,6 @@
 - <b>ELT Data Pipeline using Python</b>
   - [Building ELT Pipeline for Data Transformation](https://github.com/lewismuguna/ELT-Pipeline-Python)
 
-<h2>📺 Popular YouTube Videos</h2>
-
-- [How to Build a Data Pipeline with Apache Spark](https://www.youtube.com/watch?v=abcd1234)
-- [Getting Started with BigQuery for Data Analysts](https://www.youtube.com/watch?v=efgh5678)
-- [Power BI vs Tableau: Which One to Choose for Data Analytics?](https://www.youtube.com/watch?v=ijkl91011)
-- [How to Build ETL Pipelines in Python](https://www.youtube.com/watch?v=mnop1213)
-- [Top Tips for Using Excel for Data Analysis](https://www.youtube.com/watch?v=qrst1415)
-
-<h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="LewisMuguna | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="LewisMuguna | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
