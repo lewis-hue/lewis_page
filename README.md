@@ -13,9 +13,9 @@ This project involves building a scalable ETL pipeline using Apache Spark and Py
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/instacart.jpeg"> **[Data Analysis: Customer Segmentation and Behavior Analysis](https://github.com/lewismuguna/Instacart-Market-Basket-Analysis)**
+<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/instacart.jpeg"> **[Data Analysis: Customer Segmentation and Behavior Analysis](https://github.com/lewis-hue/data_analysis.git)**
 
-In this project, I will analyze a retail company’s customer data to identify customer segments based on purchasing behavior. The project can use unsupervised learning techniques like k-means clustering and customer lifetime value (CLV) models. Create visualizations in Power BI or Tableau to present actionable insights for marketing strategies.
+This project focuses on Customer Lifetime Value (CLV) analysis to help businesses understand customer behavior and spending patterns. By analyzing metrics like Total Purchase, Frequency, and CLV, it uncovers insights into high-value customers and their purchasing behavior. The goal is to offer actionable insights for enhancing customer retention, optimizing marketing, and boosting profitability. The project uses R Studio for the analysis.
 
 #
 
