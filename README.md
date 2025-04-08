@@ -18,8 +18,6 @@ This project involves building a scalable ETL pipeline using Apache Spark and Py
 This project focuses on customer behavior analytics using **R** in **R Studio**, exploring the relationship between `TotalPurchase`, `Frequency`, and `Customer Lifetime Value (CLV)` through exploratory data analysis and correlation testing. Visualizations include bar graphs and scatterplots, supported by statistical metrics (correlation coefficients and p-values) to uncover actionable insights. 
 
 
-**Key outcomes include** identifying high-value customers, evaluating purchasing patterns, and understanding key drivers of CLV to guide retention and marketing strategies.
-
 **Skills & Tools:** R, R Studio, Data Analysis, Correlation Analysis, Data Visualization, Customer Segmentation, CLV Modeling, Business Intelligence, Exploratory Data Analysis (EDA), Statistical Testing
 
 #
