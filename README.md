@@ -15,7 +15,11 @@ This project involves building a scalable ETL pipeline using Apache Spark and Py
 
 <img align="left" width="250" height="150" src="https://github.com/lewis-hue/lewis_page/blob/main/Customer%20segmentation.png"> **[Data Analysis: Customer Segmentation and Behavior Analysis](https://github.com/lewis-hue/data_analysis.git)**
 
-This project focuses on Customer Lifetime Value (CLV) analysis to help businesses understand customer behavior and spending patterns. By analyzing metrics like Total Purchase, Frequency, and CLV, it uncovers insights into high-value customers and their purchasing behavior. The goal is to offer actionable insights for enhancing customer retention, optimizing marketing, and boosting profitability. The project uses R Studio for the analysis.
+This project focuses on customer behavior analytics using **R** in **R Studio**, exploring the relationship between `TotalPurchase`, `Frequency`, and `Customer Lifetime Value (CLV)` through exploratory data analysis and correlation testing. Visualizations include bar graphs and scatterplots, supported by statistical metrics (correlation coefficients and p-values) to uncover actionable insights.
+
+**Key outcomes include** identifying high-value customers, evaluating purchasing patterns, and understanding key drivers of CLV to guide retention and marketing strategies.
+
+**Skills & Tools:** R, R Studio, Data Analysis, Correlation Analysis, Data Visualization, Customer Segmentation, CLV Modeling, Business Intelligence, Exploratory Data Analysis (EDA), Statistical Testing
 
 #
 
