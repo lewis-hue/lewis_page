@@ -7,46 +7,45 @@ This Portfolio is a compilation of all the Data Science, Data Engineering, and D
 
 ## Projects
 
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg"> **[Customer Survival Analysis and Churn Prediction](https://github.com/lewismuguna/Customer-Survival-Analysis-and-Churn-Prediction)**
+<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg"> **[Data Engineering: Building a Scalable Data Pipeline](https://github.com/lewismuguna/Customer-Survival-Analysis-and-Churn-Prediction)**
 
-In this project, I used survival analysis to study customer churn likelihood over time and implemented a Random Forest model to predict churn. The model was deployed as a Flask web application on Heroku. [App](https://churn-prediction-app.herokuapp.com/)
-
-#
-
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/instacart.jpeg"> **[Instacart Market Basket Analysis](https://github.com/lewismuguna/Instacart-Market-Basket-Analysis)**
-
-The objective of this project is to analyze over 3 million grocery orders and predict which previously purchased items will be included in a customer's next order. I performed customer segmentation and affinity analysis to uncover user purchase patterns.
+This project involves building a scalable ETL pipeline using Apache Spark and Python. I will use Airflow to orchestrate the ETL process, and dbt for managing transformations. The pipeline will extract data from multiple sources, transform it into a clean and structured format, and load it into a cloud data warehouse (like BigQuery or AWS Redshift).
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/1_cEaeMuTvINqIgyYQMSJWUA.jpeg"> **[Hybrid-filtering News Articles Recommendation Engine](https://github.com/lewismuguna/News-Articles-Recommendation)**
+<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/instacart.jpeg"> **[Data Analysis: Customer Segmentation and Behavior Analysis](https://github.com/lewismuguna/Instacart-Market-Basket-Analysis)**
 
-This project involves building a hybrid-filtering recommendation system that suggests news articles based on a user’s reading history (collaborative filtering) and the content similarity of the articles and tweets (content-based filtering).
-
-#
-
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/airplane.jpeg"> **[Predictive Maintenance of Aircraft Engine](https://github.com/lewismuguna/Predictive-Maintenance-of-Aircraft-Engine)**
-
-In this project, I used models like RNN, LSTM, and 1D-CNN to predict aircraft engine failure 50 cycles ahead of time. I performed feature importance analysis using sensitivity and SHAP values and applied exponential degradation models to predict the remaining engine life.
+In this project, I will analyze a retail company’s customer data to identify customer segments based on purchasing behavior. The project can use unsupervised learning techniques like k-means clustering and customer lifetime value (CLV) models. Create visualizations in Power BI or Tableau to present actionable insights for marketing strategies.
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/960x0.jpg"> **[Wind Turbine Power Curve Estimation](https://github.com/lewismuguna/Wind-Turbine-Power-Curve-Estimation)**
+<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/1_cEaeMuTvINqIgyYQMSJWUA.jpeg"> **[Machine Learning: Predictive Maintenance in Manufacturing](https://github.com/lewismuguna/News-Articles-Recommendation)**
 
-This project focuses on estimating the power curve of an on-shore wind turbine. Using regression techniques, I applied nonlinear tree-based methods such as XGBoost, which were optimized using GridSearchCV to achieve the lowest test RMSE of 6.404.
-
-#
-
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/phase1.jpg"> **[Multivariate Phase 1 Analysis](https://github.com/lewismuguna/Multivariate-Phase-1-Analysis)** 
-
-The objective of this project was to identify in-control and out-of-control data points for setting up distribution parameters in manufacturing process monitoring. I utilized PCA for dimension reduction and used Hotelling's T2 and m-CUSUM control charts to establish mean and variance matrices.
+Develop a machine learning model to predict equipment failures in a manufacturing plant. The dataset should contain machine sensor readings over time, and my task is to predict when maintenance is required before failure occurs. This project will leverage time series analysis, regression models, and feature engineering.
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/gdp.jpg"> **[What's the GDP of India?](https://github.com/lewismuguna/Predicting-GDP-of-India)**
+<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/airplane.jpeg"> **[Business Intelligence (BI): Sales Forecasting Dashboard](https://github.com/lewismuguna/Predictive-Maintenance-of-Aircraft-Engine)**
 
-In this project, I performed a predictive analysis of India’s GDP based on socio-economic factors. After comparing several models, I implemented Stepwise Regression, resulting in a 5.7% test MSE.
+Build a forecasting model for sales prediction using time series analysis. Use SQL to extract data from the database and apply statistical methods or machine learning algorithms to predict future sales. Visualize the sales trends in Power BI or Tableau.
 
+#
+
+<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/960x0.jpg"> **[ETL & ELT: Data Transformation and Analysis with dbt](https://github.com/lewismuguna/Wind-Turbine-Power-Curve-Estimation)**
+
+Implement an ELT (Extract, Load, Transform) process using dbt (Data Build Tool) to load raw data from BigQuery into a data warehouse and then transform it for business intelligence (BI) analysis. Use Python for preprocessing, and visualize the results in Power BI or Tableau.
+
+#
+
+<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/phase1.jpg"> **[Big Data Analytics: Real-Time Data Processing with Apache Spark](https://github.com/lewismuguna/Multivariate-Phase-1-Analysis)** 
+
+In this project, I will build a real-time analytics pipeline using Apache Spark and Kafka. The pipeline will process real-time data, such as user activity logs, and generate immediate insights, such as active users, popular products, or sentiment scores from reviews.
+
+#
+
+<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/gdp.jpg"> **[Natural Language Processing (NLP): Sentiment Analysis on Customer Reviews](https://github.com/lewismuguna/Predicting-GDP-of-India)**
+
+Build a sentiment analysis model to determine customer satisfaction from their reviews on an e-commerce platform. I will preprocess the text data, use NLP techniques like tokenization and vectorization, and build a classification model to categorize reviews as positive, neutral, or negative.
 <br />
 
 ## Micro Projects
