@@ -27,7 +27,9 @@ Develop a machine learning model to predict equipment failures in a manufacturin
 
 <img align="left" width="250" height="150" src="https://github.com/lewis-hue/lewis_page/blob/main/databricks.png"> **[Business Intelligence (BI): Sales Forecasting Dashboard (Databricks)](https://github.com/lewis-hue/BusinessIntelligence.git)**
 
-Build a forecasting model for sales prediction using time series analysis. Use SQL to extract data from the database and apply statistical methods or machine learning algorithms to predict future sales. Visualize the sales trends in Power BI or Tableau.
+This project demonstrates a comprehensive sales data analysis using **SQL** within **Databricks** on **Microsoft Azure**. The analysis covers product-level revenue, units sold, store performance, and geographic trends. A robust **ETL pipeline** was developed in Databricks to ingest and process transactional sales data across countries and stores. Key business insights were visualized via interactive dashboards to support strategic decision-making.
+
+**Skills & Tools:** SQL, Databricks, Microsoft Azure, Business Intelligence, Data Visualization, Data Analysis, Sales Analytics, ETL Pipelines, Dashboarding, Retail Analytics
 
 #
 
