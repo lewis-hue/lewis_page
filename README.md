@@ -55,22 +55,6 @@ In this project, I will build a real-time analytics pipeline using Apache Spark 
 Build a sentiment analysis model to determine customer satisfaction from their reviews on an e-commerce platform. I will preprocess the text data, use NLP techniques like tokenization and vectorization, and build a classification model to categorize reviews as positive, neutral, or negative.
 <br />
 
-## Micro Projects
-- ### Statistics and Machine Learning
-    - [Genetic Algorithm](https://github.com/lewismuguna/Statistical-Methods/blob/master/genetic-algorithm.ipynb) : Implemented a simple genetic algorithm to find a list of numbers that sum to a specified target.
-    - [Bayesian Statistics](https://github.com/lewismuguna/Statistical-Methods/blob/master/Bayesian%20Statistics.ipynb) : Explored Bayesian statistics and how prior assumptions influence posterior probabilities using a gun control example.
-    - [Gaussian Mixture Model and Expectation Maximization](https://github.com/lewismuguna/Statistical-Methods/blob/master/GMM-EM.ipynb): Implemented the Expectation Maximization algorithm to model a one-dimensional GMM of two Gaussians.
-    - [Linear Regression](https://github.com/lewismuguna/Statistical-Methods/blob/master/Linear%20Regression.ipynb): Solved linear regression using analytical methods, gradient descent, and stochastic gradient descent.
-    - [Neural Network Implementation](https://github.com/lewismuguna/Statistical-Methods/blob/master/NN%20Implementation.ipynb): Implemented a neural network for predicting customer churn using forward propagation, backpropagation, and optimization techniques.
-
-- ### Challenges
-    - [SQL Challenges](https://github.com/lewismuguna/SQL): Repository containing SQL challenge solutions (Hackerrank, Leetcode, Testdome, etc.).
-    - [Data Science Challenges](https://github.com/lewismuguna/DS-Challenges): Solutions to various data science challenges (Hackerrank, TestDome, etc.).
-
-- ### Ranking Algorithms
-    - [Ranking of NFL Teams Using Markov Chains](https://github.com/lewismuguna/Ranking-of-NFL-Teams-using-Markov-method/blob/master/Ranking%20of%20NFL%20teams%20Report.pdf) : Applied Markov Chain methods to rank 32 NFL teams based on their 2007 season scores.
-    - [Ranking of Tennis Players](https://github.com/lewismuguna/Tennis-Players-Ranking/blob/master/TennisRanking.ipynb) : Implemented four approaches to rank tennis players based on their 2018 match results.
-
 ## Core Competencies
 
 - **Methodologies**: Data Engineering, Data Analysis, Machine Learning, Deep Learning, Time Series Analysis, Natural Language Processing (NLP), ETL, ELT, Big Data Analytics
